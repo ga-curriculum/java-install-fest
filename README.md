@@ -3,6 +3,8 @@
   <span class="headline">Java Installfest</span>
 </h1>
 
+# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://git.generalassemb.ly/modular-curriculum-all-courses/java-installfest-mid-2024) repo instead.
+
 ## About
 
 Welcome to Installfest, where we'll set up the development environment you'll use for this course! This guide is designed to walk you through each installation step, ensuring you don't miss anything crucial. The installfest documents are organized by operating system below. Make sure you only follow one path.
