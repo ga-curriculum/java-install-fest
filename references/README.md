@@ -7,7 +7,7 @@
 
 - [Create your account](http://git-invite.generalassemb.ly/)
 - [Homebrew](https://brew.sh)
-- [GA Enterprise Git](https://git.generalassemb.ly)
+- [GitHub](https://github.com/)
 - [Adoptium - Download JDK 21 - macOS - Apple Silicon](https://adoptium.net/temurin/releases/?os=mac&version=21&arch=aarch64&package=jdk)
 - [Adoptium - Download JDK 21 - macOS - Intel](https://adoptium.net/temurin/releases/?os=mac&version=21&arch=x64&package=jdk)
 - [JetBrains - Download IntelliJ IDEA - macOS](https://www.jetbrains.com/idea/download/?section=mac)
